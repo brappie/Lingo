@@ -1,0 +1,1 @@
+int readNextWord(char *word, FILE *fp);
